@@ -180,7 +180,7 @@ def run():
         # TODO: Build NN using load_vgg, layers, and optimize function
         
         # Hyper parameters
-        epochs = 6
+        epochs = 50
         batch_size = 5
 
         # TF placeholders
